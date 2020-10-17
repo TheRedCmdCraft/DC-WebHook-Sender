@@ -1,2 +1,3 @@
-# DC WebHook Sender
- Discord WebHook Sender by Fabian9799, Design by Verspieelt
+# Discord WebHook Sender
+
+Das ist ein Discord WebHook Sender von [Fabian9799](fa97.de) und von Verspieelt weiterentwickelt
